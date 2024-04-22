@@ -1,192 +1,207 @@
-
-
-.header{
-    border-bottom: 2px solid;
-    border-color: blue;
+.header {
+  border-bottom: 2px solid;
+  border-color: blue;
 }
 
 a {
-    padding: 10px;
+  padding: 10px;
 }
 
 .header-topmenu {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
 }
 
 .New-scientist {
-    font-size: 40px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
 .header-next {
-    padding: 10px;
+  padding: 10px;
 }
 
 .header-third {
-    padding: 15px;
-    display: flex;
-    justify-content: space-between;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .subscribemenu {
-    border-radius: 10px;
-    border: 1px solid;
-    color: orange;
+  border-radius: 10px;
+  border: 1px solid;
+  color: orange;
 }
 
 .space {
-    color: orange;
-    font-size: x-large;
-    padding: 10px;
+  color: orange;
+  font-size: x-large;
+  padding: 10px;
 }
 
 .ancient {
-    font-size: 40px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    padding: 10px;
-    width: 750px;
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding: 10px;
+  width: 750px;
 }
 
 .leach {
-    padding-left: 10px;
-    padding-top: -30px;
+  padding-left: 10px;
+  padding-top: -30px;
 }
 
 .date {
-    padding: 10px;
+  padding: 10px;
 }
 
 .allnav {
-    width: 750px;
+  width: 750px;
 }
 
 img {
-    width: 750px;
-    height: 400px;
-    justify-content: left;
+  width: 750px;
+  height: 400px;
+  justify-content: left;
 }
 
 .purported {
-    padding: 10px;
+  padding: 10px;
 }
 
 .imagsection2 {
-    display: flex;
-    justify-content: space-evenly;
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.spaces, .mars, .robot, .earth {
-    width: 200px;
-    border-radius: 20px;
-    background-color: white;
-    
+.spaces,
+.mars,
+.robot,
+.earth {
+  width: 200px;
+  border-radius: 20px;
+  background-color: white;
 }
 
 .four-pic {
-    display: flex;
-    width: 200px;
-    height: auto;
-    border-radius: 20px;
-    justify-content: space-between;
+  display: flex;
+  width: 200px;
+  height: auto;
+  border-radius: 20px;
+  justify-content: space-between;
 }
 
 .imagsection {
-    background-color: rgb(0, 21, 0);
-    width: 1200px;
-    padding: 10px;
+  background-color: rgb(0, 21, 0);
+  width: 1200px;
+  padding: 10px;
 }
-
 
 .second-body {
-    color: white;
-    padding: 50px;
+  color: white;
+  padding: 50px;
 }
 
-.pic-pac-1, .pic-pac-2, .pic-pac-3, .pic-pac-4 {
-    padding: 10px;
+.pic-pac-1,
+.pic-pac-2,
+.pic-pac-3,
+.pic-pac-4 {
+  padding: 10px;
 }
 
 .hundreds {
-    padding: 10px;
+  padding: 10px;
 }
 
 .last-first-view {
-    display: flex;
-    justify-content: left;
-    align-items: center;
+  display: flex;
+  justify-content: left;
+  align-items: center;
 }
 
 .colour-box {
-    background-color: blueviolet;
-    border-radius: 20px 0px 0px 0px;
-    height: 60px;
-    width: 60px;
-    margin-left: 10px;
-    margin-right: 10px;
+  background-color: blueviolet;
+  border-radius: 20px 0px 0px 0px;
+  height: 60px;
+  width: 60px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .p-art {
-    font-size: 22px;
-    color: darkgreen;
+  font-size: 22px;
+  color: darkgreen;
 }
 
 .trend {
-    color: darkgreen;
-    font-size: 22px;
+  color: darkgreen;
+  font-size: 22px;
 }
 
 .third-first-five {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .third-second-five {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
-.th1, .th2, .th3, .th4, .th5, .th6, .th7, .th8, .th9, .th10 {
-    display: flex;
-    flex-direction: row;
-    width: 300px;
-    padding: 5px;
+.th1,
+.th2,
+.th3,
+.th4,
+.th5,
+.th6,
+.th7,
+.th8,
+.th9,
+.th10 {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  padding: 5px;
 }
 
 .third-numbers {
-    padding: 15px;
-    color: darkgreen;
+  padding: 15px;
+  color: darkgreen;
 }
 
 .last-section {
-    width: 1200px;
-    
+  width: 1200px;
 }
 
 footer {
-    color: white;
-    background-color: black;
+  color: white;
+  background-color: black;
 }
 
 .footer-body {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .footer-header {
-    font-weight: semi-bold;
+  font-weight: semi-bold;
 }
 
-.download, .socialMedia, .subscribe, .support, .Tool, .privacy {
-    display: flex;
-    flex-direction: column;
+.download,
+.socialMedia,
+.subscribe,
+.support,
+.Tool,
+.privacy {
+  display: flex;
+  flex-direction: column;
 }
 
 .lastclass {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
