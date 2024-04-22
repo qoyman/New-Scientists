@@ -1,7 +1,7 @@
 *,
-*:before,
-*:after {
-   box-sizing: border-box;
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 form {
@@ -21,12 +21,13 @@ fieldset {
   padding: 0;
 }
 
-input, textarea {
-    border-radius: 5px;
-    font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0;
+input,
+textarea {
+  border-radius: 5px;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
 }
 
 .Send {
-    margin: 0 80px 0 80px;
+  margin: 0 80px 0 80px;
 }
